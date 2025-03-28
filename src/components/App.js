@@ -11,6 +11,7 @@ const App = () => {
   const onClear = ()=>{
     setInput('')
   }
+  
   return (
     <div>
       <p>Enter your name:</p>
